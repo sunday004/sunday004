@@ -5,13 +5,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Machine Learning and C++**
+- 👯 I’m looking to collaborate on **software development projects: low level and high level**
+- 📫 How to reach me: LinkedIn (attached below)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **Born on Easter Sunday**
 -->
 ## Hi there, I'm Sunday Ochigbo 👋
 
@@ -29,7 +27,7 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 
 ### 📊 GitHub Stats
 
-![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=True&show=reviews,prs_merged,prs_merged_percentage)
 
 ```markdown
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=true&theme=radical)
@@ -40,12 +38,8 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 
 - 📡 **IoT Methane Sensor:** Smart sensor system with smartphone integration
 - 🤖 **IEEE Robotics Competition:** Leading a team to build a Lidar-based autonomous robot
-- 🏗 **The Hill’s Haven:** Finalist in the Disney Innovation Challenge
 - 📝 **RAG-based AI Chatbot:** Building an AI chatbot using Pinecone & OpenAI API
 
-### 🎬 Fun GIF
-
-![Coding GIF](https://your-gif-url.com/coding.gif)
 
 ### 📫 Let's Connect!
 
