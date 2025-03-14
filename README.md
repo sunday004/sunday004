@@ -4,7 +4,9 @@
 
 ## Hi there, I'm Sunday Ochigbo 👋
 
-- 🔭 I’m currently working on ...
+**Get to meet me:**
+
+- 🔭 I’m currently working on honing my embedded programming low level skills
 - 🌱 I’m currently learning **Machine Learning and C++**
 - 👯 I’m looking to collaborate on **software development projects: low level and high level**
 - 📫 How to reach me: LinkedIn (attached below)
@@ -27,11 +29,7 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 ### 📊 GitHub Stats
 
 ![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=True&show=reviews,prs_merged,prs_merged_percentage)
-
-```markdown
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunday004&layout=compact&theme=radical)
-```
+![Sunday's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=sunday004&show_icons=true&locale=en&layout=compact")
 
 ### 🎯 Current Projects
 
