@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **sunday004/sunday004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,9 +47,8 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=google-chrome)](https://your-portfolio-url.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sunday-ochigbo-a9b018240/)  
+
 
 💡 *"Innovating at the intersection of technology & impact."*
 
