@@ -29,7 +29,7 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 ### 📊 GitHub Stats
 
 ![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=True&show=reviews,prs_merged,prs_merged_percentage)
-![Sunday's Language stats]![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunday004&show_icons=true&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunday004&show_icons=true&theme=radical&layout=compact)
 
 
 ### 🎯 Current Projects
