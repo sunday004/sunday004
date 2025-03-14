@@ -29,7 +29,7 @@ A passionate Electrical & Computer Engineering student exploring the intersectio
 
 ### 📊 GitHub Stats
 
-![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunday004&showicons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunday004&showicons=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ```markdown
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunday004&show_icons=true&theme=radical)
