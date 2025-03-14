@@ -2,7 +2,7 @@
 <!--
 **sunday004/sunday004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+## Hi there, I'm Sunday Ochigbo 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Machine Learning and C++**
@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Born on Easter Sunday**
 
-## Hi there, I'm Sunday Ochigbo 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Electrical+%26+Computer+Engineer;AI+%7C+Robotics+%7C+Web+Development;Innovating+with+Tech+%26+Impact)](https://git.io/typing-svg)
 
